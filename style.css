@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: 406px;
+    height: 561px;
+    background-color: #ffffff;
+}
+.card {
+    width: 300px;
+    height: 462px;
+    border: 1px solid #e8e8e8;
+    background-color: #ffffff;
+    margin-left: 10px;
+    margin-top: 5px;
+    padding-top: 61px;
+    padding-bottom: 50px;  
+}
+.btn {
+    width: 200px;
+    height: 54px;
+    border: 2px solid #e8e8e8;
+    background-color: #ffffff;
+    margin-left: 49px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #5a5a5a;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+.text {  
+    width: 201px;
+    color: #454545;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 49px;
+    margin-left: 53px;
+    font-weight: 400;
+    text-align:  center;
+}
+.text-1 {
+    width: 201px;
+    color: #454545;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 53px;
+    font-weight: 400;
+    text-align:  center;
+}
+.text-2 {
+    width: 201px;
+    color: #454545;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 47px;
+    margin-left: 53px;
+    font-weight: 400;
+    text-align:  center;
+}
+.title {
+    display: inline-block;
+    height: 16px;
+    color: #212121;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-left: 88px;
+    font-weight: 600;
+}
+.price {
+    display: inline-block;
+    width: 125px;
+    height: 36px;
+    color: #5ba2a9;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 35px;
+    margin-left: 64px;
+    margin-right: 6px;
+}
+.money {
+    display: inline-block;
+    width: 32px;
+    height: 17px;
+    color: #5ba2a9;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-right: 66px;
+}
